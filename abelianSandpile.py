@@ -50,13 +50,13 @@ def dropSand(s = None, top = None, fp = None, pos = None):
     print("%d iterations in %.2f seconds" % (i, t1-t0))
     return (field,fp)
 
-test = dropSand(fp = 100000)
+test = dropSand(fp = 20)
 fp = test[1]
 img = test[0]
 maxi = np.max(np.where(img == 1)[0])
 
 plt.imshow(img, vmin = 0, vmax= 3)
-plt.xlim(230-maxi,maxi+5)
-plt.ylim(230-maxi,maxi+5)
+plt.xlim(235-maxi,maxi+5)
+plt.ylim(235-maxi,maxi+5)
 plt.savefig(os.getcwd()+"/images/sandpile_"+str(fp)+".png", frameon=False)
 plt.show()
