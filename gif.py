@@ -1,4 +1,4 @@
-from abelianSandpileBrkr import dropSand
+from abelianSandpileBrkr import dropSandBrkr
 import os
 import imageio
 import re
