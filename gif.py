@@ -10,7 +10,7 @@ def sorted_alphanumeric(data):
 
 # Utilizing our images to create our gif
 
-dropSand(breaks = 100)
+dropSandBrkr(breaks = 100)
 
 png_dir = os.getcwd()+'/images/'
 images = []

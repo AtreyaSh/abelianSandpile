@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sys
 
-def dropSand(s = None, top = None, fp = None, pos = None, breaks = None):
+def dropSandBrkr(s = None, top = None, fp = None, pos = None, breaks = None):
 
     #  default size of our field
     if(s == None):
