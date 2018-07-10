@@ -17,4 +17,4 @@ for file_name in sorted_alphanumeric(os.listdir(png_dir)):
 		images.append(imageio.imread(file_path))
 
 kargs = { 'duration': 0.1}
-imageio.mimsave(os.getcwd()+'/sandyMovie.gif', images, **kargs)
+imageio.mimsave(os.getcwd()+'/gif/sandyMovie.gif', images, **kargs)
