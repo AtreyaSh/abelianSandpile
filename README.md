@@ -4,7 +4,7 @@
 
 The Abelian sandpile is an interesting example of a well-ordered game which leads to very interesting results, especially in the context of self-organized criticiality. Here we will experiment with the Abelian sandpile using python scripts.
 
-The inspiration for this project was drawn from a recent Numberphile video. Kudos to them for making mathematics so accessible to the general public.
+The inspiration for this project was drawn from a recent [Numberphile](https://www.youtube.com/watch?v=1MtEUErz7Gg) video. Kudos to them for making mathematics so accessible to the general public.
 
 ## Algorithm
 
