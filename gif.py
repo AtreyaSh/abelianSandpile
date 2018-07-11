@@ -1,3 +1,4 @@
+from abelianSandpileBrkrStatic import dropSandBrkrStatic
 from abelianSandpileBrkr import dropSandBrkr
 import os
 import imageio
@@ -10,7 +11,8 @@ def sorted_alphanumeric(data):
 
 # Utilizing our images to create our gif
 
-dropSandBrkr(breaks = 100)
+# dropSandBrkr(breaks=100)
+dropSandBrkrStatic(fp = 100000, breaks = 1000)
 
 png_dir = os.getcwd()+'/images/'
 images = []
@@ -19,5 +21,5 @@ for file_name in sorted_alphanumeric(os.listdir(png_dir)):
 		file_path = os.path.join(png_dir, file_name)
 		images.append(imageio.imread(file_path))
 
-kargs = { 'duration': 0.1}
-imageio.mimsave(os.getcwd()+'/gif/sandyMovie.gif', images, **kargs)
+kargs = {'duration': 0.1}
+imageio.mimsave(os.getcwd()+'/gif/sandyMovie2.gif', images, **kargs)
