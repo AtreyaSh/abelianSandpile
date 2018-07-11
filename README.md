@@ -10,6 +10,8 @@ The inspiration for this project was drawn from a recent [Numberphile](https://w
 
 Note: Algorithm and explanations are still under develeopment. Changes will be coming to the structure and efficiency of our code
 
+## Visualizations
+
 Here are two nice gifs that we made to visualize the 2-dimensional Abelian sandpile cascade effect.
 
 1. The following animation shows the cascading effect from a fixed perspective, such that one can observe how the sandpile expands. This emphasizes holistic structural changes.
