@@ -36,6 +36,8 @@ Math is beautiful!
 
 ## Developments
 
-1. We hope to convert the above 2-dimensional visualization into a 3-dimensional animation. Essentially, colors will be converted into Z-type heights. This way, we will have a clearer idea of feedback cascade effects as the sandpile progresses.
+1. Add a color-scale legend to visualizations for clarity of depth
 
-2. We would like to extend an intrinsic 2-dimensional sandpile into a 3-dimensional sandpile; essentially on 3-dimensional grid. We will try to make 3-dimensional shadows of the resulting 4-dimensional results, still figuring what this means...
+2. We hope to convert the above 2-dimensional visualization into a 3-dimensional animation. Essentially, colors will be converted into Z-type heights. This way, we will have a clearer idea of feedback cascade effects as the sandpile progresses.
+
+3. We would like to extend an intrinsic 2-dimensional sandpile into a 3-dimensional sandpile; essentially on 3-dimensional grid. We will try to make 3-dimensional shadows of the resulting 4-dimensional results, still figuring what this means...
