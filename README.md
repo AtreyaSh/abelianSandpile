@@ -24,7 +24,7 @@ The inspiration for this project was drawn from a recent [Numberphile](https://w
 
 ## Generic Algorithm
 
-Now, assume the same sand grain limit of 4 per cell and an infinitely large grid. We also place an arbitrary number of grains `N` at the centre of the grid. Assuming N is large, we want to investigate the equilibrium state of sand grains. We apply the same algorithm as before and investigate the changes.
+Now, assume the same sand grain limit of 4 per cell and an infinitely large grid. We also place an arbitrary number of grains `N` at the centre of the grid. Assuming `N` is large, we want to investigate the equilibrium state of sand grains. We apply the same algorithm as before and investigate the changes.
 
 <img src="/rdimg/Visuals2.png" width="500">
 
