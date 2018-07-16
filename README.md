@@ -18,7 +18,7 @@ The inspiration for this project was drawn from a recent [Numberphile](https://w
 
 1. Assume the existence of the following 5x5 grid with `N = 16` "sand grains" at the centre. The rest of the cells in the grid have zero sand grains and therefore a value of 0. This is illustrated below
 
-2. We perform a similar process as we did above. However, we notice that this cascade is fairly more complex due to feedback effects. Instead of the number of iterations being only `16/4 = 4`, we must perform 7 iterations due to feedback effects until we reach our equilibrium state.
+2. We perform a similar process as we did above. However, we notice that this cascade is fairly more complex due to feedback effects. Instead of the number of iterations being only `16/4 = 4`, we must perform 6 iterations due to feedback effects until we reach our equilibrium state.
 
 <img src="/rdimg/Visuals3.png" width="800">
 
