@@ -6,6 +6,8 @@ import imageio
 from matplotlib import cm
 from mpl_toolkits.mplot3d import Axes3D
 
+# experimental script to develop 3d gifs, still in development phase
+
 # implementing dropSand to generate .png files
 
 test = dropSand(fp=10000)
