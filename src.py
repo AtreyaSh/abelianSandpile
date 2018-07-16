@@ -8,4 +8,3 @@ from gifMkr import gifMkr
 #dropSandBrkrStatic(fp = 100000, breaks = 1000)
 
 gifMkr(giftitle="sandyMovie2.gif")
-
