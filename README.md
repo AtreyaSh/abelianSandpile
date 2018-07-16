@@ -24,11 +24,11 @@ Now, assume the same sand grain limit of 4 per cell. Instead of a 3x3 grid, we a
 
 Here are two nice gifs that we made to visualize the 2-dimensional Abelian sandpile cascade effect.
 
-1. The following animation shows the cascading effect from a fixed perspective, such that one can observe how the sandpile expands. This emphasizes holistic structural changes.
+1. The following animation shows the cascading effect with `N = 100,000` from a fixed perspective, such that one can observe how the sandpile expands. This emphasizes holistic structural changes.
 
 <img src="https://github.com/AtreyaSh/abelianSandpile/blob/master/gif/sandyMovie2.gif" width="500">
 
-2. This next animation shows the cascading effect from a varying perspective, such that the sandpile is constantly in focus. This emphasizes internal structural changes.
+2. This next animation with `N = 10,000` shows the cascading effect from a varying perspective, such that the sandpile is constantly in focus. This emphasizes internal structural changes.
 
 <img src="https://github.com/AtreyaSh/abelianSandpile/blob/master/gif/sandyMovie.gif" width="500">
 
