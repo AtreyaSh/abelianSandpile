@@ -14,7 +14,7 @@ The inspiration for this project was drawn from a recent [Numberphile](https://w
 
 <img src="/rdimg/Visuals.png" width="500">
 
-## Algorithm Example with 5x5 Grid where N = 16
+## Algorithm with 5x5 Grid where N = 16
 
 1. Assume the existence of the following 5x5 grid with `N = 16` "sand grains" at the centre. The rest of the cells in the grid have zero sand grains and therefore a value of 0. This is illustrated below
 
