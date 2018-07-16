@@ -20,7 +20,7 @@ The inspiration for this project was drawn from a recent [Numberphile](https://w
 
 2. We perform a similar process as we did above. However, we notice that this cascade is fairly more complex due to feedback effects. Instead of the number of iterations being only `16/4 = 4`, we must perform 7 iterations due to feedback effects until we reach our equilibrium state.
 
-<img src="/rdimg/Visuals3.png" width="500">
+<img src="/rdimg/Visuals3.png" width="800">
 
 ## Generic Algorithm
 
