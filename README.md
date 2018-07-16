@@ -6,9 +6,9 @@ The Abelian sandpile is an interesting example of a well-ordered game which lead
 
 The inspiration for this project was drawn from a recent [Numberphile](https://www.youtube.com/watch?v=1MtEUErz7Gg) video. Kudos to them for making mathematics so accessible to the general public!
 
-## Algorithm with Confined Example
+## Algorithm Example with 3x3 Grid where N = 4
 
-1. Assume the existence of the following 3x3 grid with 4 "sand grains" at the centre. The rest of the cells in the grid have a value of 0. This is illustrated below.
+1. Assume the existence of the following 3x3 grid with `N = 4` "sand grains" at the centre. The rest of the cells in the grid have zero sand grains and therefore a value of 0. This is illustrated below.
 
 2. Here, we set a sand grain limit of each cell to be 4. This means that if a single cell has 4 or more sand grains, it will topple and release its sand grains in 4 directions. Since the centre cell has 4 sand grains, it will topple and release its sand grains in the following manner. After one iteration, no cell has sand grains equal to or more than 4. Therefore, the cells are in equilibrium. This is also illustrated below.
 
